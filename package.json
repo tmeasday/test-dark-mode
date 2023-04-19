@@ -27,6 +27,7 @@
     "@storybook/testing-library": "^0.0.13",
     "babel-loader": "^8.2.5",
     "eslint": "8.18.0",
-    "eslint-config-next": "12.2.0"
+    "eslint-config-next": "12.2.0",
+    "storybook-dark-mode": "^3.0.0"
   }
 }
